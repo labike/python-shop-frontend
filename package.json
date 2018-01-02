@@ -1,6 +1,6 @@
 {
-  "name": "webpack-test",
-  "version": "1.0.0",
+  "name": "shop-frontend",
+  "version": "0.0.1",
   "dependencies": {
     "axios": "^0.16.2",
     "jquery": "^3.2.1",
