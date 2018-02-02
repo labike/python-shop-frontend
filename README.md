@@ -1,1 +1,1 @@
-#online-store
+#python-shop-frontend
